@@ -24,10 +24,11 @@ I'm a passionate **Full Stack Developer**, **Python Engineer**, and **Generative
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mujahed-04&show_icons=true&theme=radical&bg_color=00000000" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mujahed-04&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mujahed-04&layout=compact&theme=radical&bg_color=00000000" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujahed-04&layout=compact&theme=radical&hide_border=true" />
 </p>
+
 
 ---
 
